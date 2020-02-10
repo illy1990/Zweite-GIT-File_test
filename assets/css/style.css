@@ -47,3 +47,5 @@ h2, p, h3 {
             left: 45%;
             position: absolute;
             }
+
+h2, p, h3, a {margin-top: 100px;}
